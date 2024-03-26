@@ -1,0 +1,6 @@
+Cloud Computing means Delivery of IT services over the internet.
+Cloud Computing offers many services like Storage, Infrastructure, etc.
+Cloud Computing has 3 service models. They are As follows: 
+1) IaaS
+2) PaaS
+3) SaaS
